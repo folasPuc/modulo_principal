@@ -4,3 +4,6 @@
 [submodule "pasta/sub_teste3"]
 	path = pasta/sub_teste3
 	url = https://github.com/folasPuc/sub_teste3.git
+[submodule "paste/sub_teste_4"]
+	path = paste/sub_teste_4
+	url = https://github.com/folasPuc/teste_sub_4.git
