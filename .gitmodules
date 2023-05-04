@@ -1,0 +1,3 @@
+[submodule "modulo_principal_pasta/sub_tenis"]
+	path = modulo_principal_pasta/sub_tenis
+	url = https://github.com/folasPuc/sub_modulo_teste.git
